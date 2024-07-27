@@ -1,0 +1,10 @@
+title = "Interpretando o GPT"
+baseURL = "https://impact-rio.github.io/mech-interp-course"
+
+languageCode = "pt-BR"
+defaultContentLanguage = "pt"
+
+enableRobotsTXT = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

@@ -1,0 +1,15 @@
+[[main]]
+  name = "Programação"
+  pageRef = "schedule"
+  weight = 10
+
+[[main]]
+  name = "Materiais"
+  pageRef = "materials"
+  weight = 20
+
+[[main]]
+  identifier = "search"
+  weight = 99
+  [main.params]
+    action = "search"

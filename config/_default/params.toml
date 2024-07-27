@@ -1,0 +1,13 @@
+colorScheme = "congo"
+enableSearch = true
+
+[homepage]
+  layout = "page"
+  showRecent = false
+
+[article]
+  showPagination = false
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = false
