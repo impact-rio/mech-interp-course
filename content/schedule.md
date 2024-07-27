@@ -3,7 +3,7 @@ title: Programação
 showTableOfContents: true
 ---
 
-## Aula 1 -- Tranformers e Intepretabilidade 
+## Aula 1 -- Tranformers e Interpretabilidade 
 
 |Tempo|Descrição|
 |---|---|
