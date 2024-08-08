@@ -1,4 +1,5 @@
-colorScheme = "congo"
+colorScheme = "impact-rio"
+defaultAppearance = "dark"
 enableSearch = true
 
 [homepage]
@@ -7,6 +8,13 @@ enableSearch = true
 
 [article]
   showPagination = false
+  showDate = false
+  showBreadcrumbs = false
+  showAuthor = false
+
+[header]
+  logo = "impact-rio.png"
+  layout = "hybrid"
 
 [footer]
   showCopyright = true
