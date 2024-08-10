@@ -3,14 +3,16 @@ title: Materiais
 showTableOfContents: true
 ---
 
-## Handbook
+<!-- ## Handbook -->
 
-<iframe src="https://drive.google.com/file/d/1ZHs82RHO7OE_JwQKNwg4jMmzHy-0PWJE/preview" width="100%" height="700px">
-</iframe>
+<!-- <iframe src="https://drive.google.com/file/d/1ZHs82RHO7OE_JwQKNwg4jMmzHy-0PWJE/preview" width="100%" height="700px"> -->
+<!-- </iframe> -->
 
-## Aulas
+## Aula 1
 
-### Aula 1
+**Handbook**:
+- [Capítulo 2: Transformers e Atenção](https://impact-rio.github.io/handbook/2)
+- [Capítulo 3: Mechanistic Interpretability](https://impact-rio.github.io/handbook/3)
 
 **Papers**:
 - A Mathematical Framework for Transformer Circuits: https://transformer-circuits.pub/2021/framework/index.html
@@ -19,7 +21,7 @@ showTableOfContents: true
 - ARENA Transformers: [\[1.1\] Transformer from Scratch \(exercises\).ipynb](https://colab.research.google.com/drive/1lDwKASSYGE4y_7DuGSqlo3DN41NHrXEw?usp=sharing)
 - ARENA Introdução a MechInterp: https://colab.research.google.com/drive/1gZdHsBL8Ljq7nSWJtxxlsI4JWHmllxxP?usp=sharing
 
-### Aula 2
+## Aula 2
 
 **Papers**:
 - Interpretability In The Wild: A Circuit For Indirect Object Identification In GPT-2 Small: https://arxiv.org/pdf/2211.00593
@@ -28,7 +30,7 @@ showTableOfContents: true
 **Coding**:
 - ARENA IOI: [\[1.3\] Indirect Object Identification \(exercises\).ipynb](https://colab.research.google.com/drive/1ZzLGDngppg5Y7CAKubww45RZrcXpVsrL?usp=sharing)
 
-### Aula 3
+## Aula 3
 
 **Papers**:
 - Toy Models of Superposition: https://transformer-circuits.pub/2022/toy_model/index.html
@@ -37,7 +39,7 @@ showTableOfContents: true
 - ARENA Superposition: [\[1.4\] Superposition & Sparse Autoencoders \(exercises\).ipynb](https://colab.research.google.com/drive/1DSqMihSkocF4WtLtazpIpZoUzrlu3Vdb?usp=sharing)
 
 
-### Aula 4
+## Aula 4
 
 **Papers**:
 - Sparse Autoencoders Find Highly Interpretable Features In Language Models: [Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://arxiv.org/abs/2309.08600)

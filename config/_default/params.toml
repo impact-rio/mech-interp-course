@@ -1,6 +1,5 @@
 colorScheme = "impact-rio"
 defaultAppearance = "dark"
-enableSearch = true
 
 [homepage]
   layout = "page"

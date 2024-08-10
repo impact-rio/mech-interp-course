@@ -7,7 +7,7 @@ showTableOfContents: true
 
 |Tempo|Descrição|
 |---|---|
-|Preparação|:book: Capítulos 2 e 3 do Handbook|
+|Preparação|:book: [Capítulo 2](https://impact-rio.github.io/handbook/2) e [capítulo 3](https://impact-rio.github.io/handbook/3) do Handbook|
 |45 min|:pen: Introdução a transformers e atenção|
 |20 min|:croissant: _Coffee break_|
 |45 min|:pen: Introdução a Mechanistic Interpretability|
@@ -22,7 +22,7 @@ Acessar os materiais para essa aula
 
 |Tempo|Descrição|
 |---|---|
-|Preparação|:book: Capítulo 4 do Handbook|
+|Preparação|:book: [Capítulo 4](https://impact-rio.github.io/handbook/4) do Handbook|
 |40 min|:pen: Circuitos de indução e IOI|
 |20 min|:page_with_curl: Exploração do _paper_ [Towards Automated Circuit Discovery for Mechanistic Interpretability (ACDC)](https://arxiv.org/abs/2304.14997).|
 |20 min|:croissant: _Coffee break_|
@@ -37,7 +37,7 @@ Acessar os materiais para essa aula
 
 |Tempo|Descrição|
 |---|---|
-|Preparação|:book: Capítulo 5 do Handbook|
+|Preparação|:book: [Capítulo 5](https://impact-rio.github.io/handbook/5) do Handbook|
 |30 min|:pen: Superposição|
 |30 min|:page_with_curl: Exploração do _paper_ [Toy Models of superposition](https://transformer-circuits.pub/2022/toy_model/index.html)|
 |20 min|:croissant: _Coffee break_|
