@@ -1,5 +1,7 @@
-title = "Interpretando o GPT"
+title = "Interpretabilidade de LLMs"
 baseURL = "https://impact-rio.github.io/mech-interp-course"
+
+copyright = "© 2024 impactRIO"
 
 languageCode = "pt-BR"
 defaultContentLanguage = "pt"

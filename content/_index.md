@@ -1,5 +1,5 @@
 
-Curso rápido de 4 encontros com objetivo de introduzir a área de _Mechanistic Interpretability_ para _Large Language Models_ (LLMs). Pretendemos introduçir materiais teóricos apresentar bibliotecas para interpretabilidade em Python, discustir _papers_ recentes na área (publicados por organizações como Anthropic e Google DeepMind) e realizar exercícios práticos. 
+Curso rápido de 4 encontros com objetivo de introduzir a área de _Mechanistic Interpretability_ para _Large Language Models_ (LLMs). Pretendemos introduzir materiais teóricos, apresentar bibliotecas para interpretabilidade em Python, discustir _papers_ recentes na área (publicados por organizações como Anthropic e Google DeepMind) e realizar exercícios práticos. 
 
 A área de Mechanistic Interpretability tem se popularizado de maneira acelerada nos últimos anos, [com mais de 90 _papers_ aceitos no ICML 2024](https://icml2024mi.pages.dev/). Seu principal objetivo é entender a lógica por trás das decisões de modelos de _machine learning_. Esses conhecimentos podem ser aplicados para aprimorar a transparência e a confiança em modelos existentes, além de permitir entender melhor como esses modelos aprendem. 
 

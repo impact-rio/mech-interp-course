@@ -3,7 +3,11 @@ title: Programação
 showTableOfContents: true
 ---
 
-## Aula 1 -- Tranformers e Intepretabilidade 
+{{< alert >}}
+Os encontros aconteceram acontecerão na FGV EMAp. As salas de cada encontro ainda estão a ser definidas.
+{{< /alert >}} 
+
+## Encontro 1 -- Tranformers e Intepretabilidade 
 
 |Tempo|Descrição|
 |---|---|
@@ -14,11 +18,11 @@ showTableOfContents: true
 |30 min|:laptop: _Coding_: PyTorch e TransformerLens|
 
 {{< button href="../materials#aula-1" target="_self" >}}
-Acessar os materiais para essa aula
+Acessar os materiais para esse encontro
 {{< /button >}}
 
 
-## Aula 2 -- Circuitos
+## Encontro 2 -- Circuitos
 
 |Tempo|Descrição|
 |---|---|
@@ -29,11 +33,11 @@ Acessar os materiais para essa aula
 |60 min|:laptop: _Coding_: descoberta de circuitos|
 
 {{< button href="../materials#aula-2" target="_self" >}}
-Acessar os materiais para essa aula
+Acessar os materiais para esse encontro
 {{< /button >}}
 
 
-## Aula 3 -- Superposição
+## Encontro 3 -- Superposição
 
 |Tempo|Descrição|
 |---|---|
@@ -44,11 +48,11 @@ Acessar os materiais para essa aula
 |60 min|:laptop: _Coding_: superposição em toy models|
 
 {{< button href="../materials#aula-3" target="_self" >}}
-Acessar os materiais para essa aula
+Acessar os materiais para esse encontro
 {{< /button >}}
 
 
-## Aula 4 -- Sparse Autoencoders (SAE)
+## Encontro 4 -- Sparse Autoencoders (SAE)
 
 |Tempo|Descrição|
 |---|---|
@@ -60,7 +64,7 @@ Acessar os materiais para essa aula
 |30 min|:pen: Exploração de _papers_ e novas áreas de exploração: dicas para o Hackathon!|
 
 {{< button href="../materials#aula-4" target="_self" >}}
-Acessar os materiais para essa aula
+Acessar os materiais para esse encontro
 {{< /button >}}
 
 
