@@ -4,7 +4,7 @@ showTableOfContents: true
 ---
 
 {{< alert >}}
-Os encontros aconteceram acontecerão na FGV EMAp. As salas de cada encontro ainda estão a ser definidas.
+Os encontros acontecerão na FGV EMAp. As salas para cada encontro serão definidas em breve.
 {{< /alert >}} 
 
 ## Encontro 1 -- Tranformers e Intepretabilidade 
