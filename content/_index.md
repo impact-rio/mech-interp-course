@@ -10,7 +10,7 @@ A área de Mechanistic Interpretability tem se popularizado de maneira acelerada
   <iframe style="width: min(100%, 45em); aspect-ratio: 16 / 9; height: auto;" src="https://www.youtube-nocookie.com/embed/sISodZSxNvc?si=8swo2bV2mO47zn0G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p>
 
-Um pouco depois a realização desse curso, a impactRIO organizará um Hackathon de AI safety na FGV EMAp (datas a serem definidas!) Dessa forma, recomendamos fortemente que todos que tenham interesse no Hackaton utilizem este curso como uma introdução ao tema.
+Logo após o encerramento deste curso, o impactRIO organizará um Hackathon de Mechanistic Interpretability na FGV EMAp -- detalhes a serem anunciados! Recomendamos fortemente que todos que tenham interesse em participar do Hackathon concluam este curso para introdução ao tema, além de terem as chances aumentadas de receber uma premiação na competição.
 
 {{< button href="schedule" target="_self" >}}
 Acessar a programação
