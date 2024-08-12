@@ -4,10 +4,12 @@ showTableOfContents: true
 ---
 
 {{< alert >}}
-Os encontros acontecerão na FGV EMAp. As salas para cada encontro serão definidas em breve.
+Os encontros acontecerão na FGV. As salas para cada encontro serão definidas em breve.
 {{< /alert >}} 
 
 ## Encontro 1 -- Tranformers e Intepretabilidade 
+
+**Quando?** Dia 23/08, sexta-feira, a partir das 14h30.
 
 |Tempo|Descrição|
 |---|---|
@@ -24,6 +26,8 @@ Acessar os materiais para esse encontro
 
 ## Encontro 2 -- Circuitos
 
+**Quando?** Dia 30/08, sexta-feira, a partir das 14h30.
+
 |Tempo|Descrição|
 |---|---|
 |Preparação|:book: [Capítulo 4](https://impact-rio.github.io/handbook/4) do Handbook|
@@ -39,6 +43,8 @@ Acessar os materiais para esse encontro
 
 ## Encontro 3 -- Superposição
 
+**Quando?** Dia 06/09, sexta-feira, a partir das 14h30.
+
 |Tempo|Descrição|
 |---|---|
 |Preparação|:book: [Capítulo 5](https://impact-rio.github.io/handbook/5) do Handbook|
@@ -53,6 +59,8 @@ Acessar os materiais para esse encontro
 
 
 ## Encontro 4 -- Sparse Autoencoders (SAE)
+
+**Quando?** Dia 13/09, sexta-feira, a partir das 14h30.
 
 |Tempo|Descrição|
 |---|---|
