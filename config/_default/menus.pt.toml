@@ -19,19 +19,3 @@
   name = "Contato"
   pageRef = "contact"
   weight = 40
-
-[[footer]]
-  name = "Instagram"
-  url = "https://instagram.com/impact_rio"
-  [footer.params]
-    icon = "instagram"
-    showName = true
-    target = "_blank"
-
-[[footer]]
-  name = "LinkedIn"
-  url = "https://www.linkedin.com/company/impact-rio/"
-  [footer.params]
-    icon = "linkedin"
-    showName = true
-    target = "_blank"
