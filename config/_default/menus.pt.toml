@@ -9,11 +9,16 @@
   weight = 20
 
 [[main]]
-  name = "Inscrever-se"
-  url = "https://example.com"
+  name = "Inscreva-se :blue_heart:"
+  url = "https://airtable.com/app7aqYaS9n3PV6WU/pag7uf48OYEhCpDRO/form"
   weight = 30
   [main.params]
     target = "_blank"
+
+[[main]]
+  name = "Contato"
+  pageRef = "contact"
+  weight = 40
 
 [[footer]]
   name = "Instagram"
