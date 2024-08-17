@@ -9,7 +9,9 @@ Os encontros acontecerão na FGV. As salas para cada encontro serão definidas e
 
 ## Encontro 1 -- Tranformers e Intepretabilidade 
 
-**Quando?** Dia 23/08, sexta-feira, a partir das 14h30.
+**Horário**: Dia 23/08, sexta-feira, a partir das 14h30.
+
+**Local**: Auditório 537.
 
 |Tempo|Descrição|
 |---|---|
@@ -26,13 +28,15 @@ Acessar os materiais para esse encontro
 
 ## Encontro 2 -- Circuitos
 
-**Quando?** Dia 30/08, sexta-feira, a partir das 14h30.
+**Horário**: Dia 30/08, sexta-feira, a partir das 14h30.
+
+**Local**: Auditório 418.
 
 |Tempo|Descrição|
 |---|---|
 |Preparação|:book: [Capítulo 4](https://impact-rio.github.io/handbook/4) do Handbook|
 |40 min|:mag: Circuitos de indução e IOI|
-|20 min|:page_with_curl: Exploração do _paper_ [Towards Automated Circuit Discovery for Mechanistic Interpretability (ACDC)](https://arxiv.org/abs/2304.14997).|
+|20 min|:page_with_curl: Exploração do _paper_ [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html).|
 |20 min|:croissant: _Coffee break_|
 |60 min|:laptop: _Coding_: descoberta de circuitos|
 
@@ -43,7 +47,9 @@ Acessar os materiais para esse encontro
 
 ## Encontro 3 -- Superposição
 
-**Quando?** Dia 06/09, sexta-feira, a partir das 14h30.
+**Horário**: Dia 06/09, sexta-feira, a partir das 14h30.
+
+**Local**: Auditório 537.
 
 |Tempo|Descrição|
 |---|---|
@@ -60,7 +66,9 @@ Acessar os materiais para esse encontro
 
 ## Encontro 4 -- Sparse Autoencoders (SAE)
 
-**Quando?** Dia 13/09, sexta-feira, a partir das 14h30.
+**Horário**: Dia 13/09, sexta-feira, a partir das 14h30.
+
+**Local**: Auditório 418.
 
 |Tempo|Descrição|
 |---|---|

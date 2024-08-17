@@ -24,6 +24,7 @@ showTableOfContents: true
 **Papers**:
 - [Interpretability In The Wild: A Circuit For Indirect Object Identification In GPT-2 Small](https://arxiv.org/pdf/2211.00593)
 - [In-context Learning and Induction Heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)
+- [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
 
 **Coding**:
 - [ARENA -- \[1.3\] Indirect Object Identification](https://colab.research.google.com/drive/1ZzLGDngppg5Y7CAKubww45RZrcXpVsrL?usp=sharing)
