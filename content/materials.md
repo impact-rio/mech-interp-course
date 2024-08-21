@@ -3,7 +3,7 @@ title: Materiais
 showTableOfContents: true
 ---
 
-## Aula 1
+## Encontro 1
 
 **Handbook**:
 - [Capítulo 2](https://impact-rio.github.io/handbook/2)
@@ -16,7 +16,11 @@ showTableOfContents: true
 - [ARENA -- \[1.1\] Transformers from scratch](https://colab.research.google.com/drive/1lDwKASSYGE4y_7DuGSqlo3DN41NHrXEw?usp=sharing)
 - [ARENA -- \[1.2\] Intro to Mechanistic Interpretability: TransformerLens & induction circuits](https://colab.research.google.com/drive/1gZdHsBL8Ljq7nSWJtxxlsI4JWHmllxxP?usp=sharing)
 
-## Aula 2
+**Extra**:
+- [3b1b -- But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://www.youtube.com/watch?v=wjZofJX0v4M)
+- [3b1b -- Attention in transformers, visually explained | Chapter 6, Deep Learning](https://www.youtube.com/watch?v=eMlx5fFNoYc)
+
+## Encontro 2
 
 **Handbook**:
 - [Capítulo 4](https://impact-rio.github.io/handbook/4)
@@ -29,7 +33,7 @@ showTableOfContents: true
 **Coding**:
 - [ARENA -- \[1.3\] Indirect Object Identification](https://colab.research.google.com/drive/1ZzLGDngppg5Y7CAKubww45RZrcXpVsrL?usp=sharing)
 
-## Aula 3
+## Encontro 3
 
 **Handbook**:
 - [Capítulo 5](https://impact-rio.github.io/handbook/5)
@@ -41,7 +45,7 @@ showTableOfContents: true
 - [ARENA -- \[1.4\] Superposition & Sparse Autoencoders](https://colab.research.google.com/drive/1DSqMihSkocF4WtLtazpIpZoUzrlu3Vdb?usp=sharing)
 
 
-## Aula 4
+## Encontro 4
 
 **Handbook**:
 - TODO

@@ -21,7 +21,7 @@ Os encontros acontecerão na FGV. As salas para cada encontro serão definidas e
 |45 min|:mag: Introdução a Mechanistic Interpretability|
 |30 min|:laptop: _Coding_: PyTorch e TransformerLens|
 
-{{< button href="../materials#aula-1" target="_self" >}}
+{{< button href="../materials#encontro-1" target="_self" >}}
 Acessar os materiais para esse encontro
 {{< /button >}}
 
@@ -40,7 +40,7 @@ Acessar os materiais para esse encontro
 |20 min|:croissant: _Coffee break_|
 |60 min|:laptop: _Coding_: descoberta de circuitos|
 
-{{< button href="../materials#aula-2" target="_self" >}}
+{{< button href="../materials#encontro-2" target="_self" >}}
 Acessar os materiais para esse encontro
 {{< /button >}}
 
@@ -59,7 +59,7 @@ Acessar os materiais para esse encontro
 |20 min|:croissant: _Coffee break_|
 |60 min|:laptop: _Coding_: superposição em toy models|
 
-{{< button href="../materials#aula-3" target="_self" >}}
+{{< button href="../materials#encontro-3" target="_self" >}}
 Acessar os materiais para esse encontro
 {{< /button >}}
 
@@ -79,7 +79,7 @@ Acessar os materiais para esse encontro
 |40 min|:laptop: _Coding_: Treinando SAEs|
 |30 min|:mag: Exploração de _papers_ e novas áreas de exploração: dicas para o Hackathon!|
 
-{{< button href="../materials#aula-4" target="_self" >}}
+{{< button href="../materials#encontro-4" target="_self" >}}
 Acessar os materiais para esse encontro
 {{< /button >}}
 
