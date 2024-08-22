@@ -13,7 +13,7 @@ showTableOfContents: true
 - [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
 
 **Coding**:
-- [ARENA -- \[1.2\] Intro to Mechanistic Interpretability: TransformerLens & induction circuits / Section 1](https://colab.research.google.com/github/impact-rio/mech-interp-course/blob/main/notebooks/encontro-1-mech-intero-intro.ipynb)
+- [ARENA -- \[1.2\] Intro to Mechanistic Interpretability: TransformerLens & induction circuits / Section 1](https://colab.research.google.com/github/impact-rio/mech-interp-course/blob/main/notebooks/encontro-1-mech-interp-intro.ipynb)
 
 **Videos**:
 - [3b1b -- But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://www.youtube.com/watch?v=wjZofJX0v4M)
