@@ -34,8 +34,8 @@ Acessar os materiais para esse encontro
 
 |Tempo|Descrição|
 |---|---|
-|Preparação|:book: [Capítulo 4](https://impact-rio.github.io/handbook/4) do Handbook|
-|40 min|:mag: Circuitos de indução e IOI|
+|Preparação|:book: [Capítulo 3](https://impact-rio.github.io/handbook/3) e [capítulo 4](https://impact-rio.github.io/handbook/4) do Handbook|
+|40 min|:mag: Circuitos e o circuito de indução|
 |20 min|:page_with_curl: Exploração do _paper_ [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html).|
 |20 min|:croissant: _Coffee break_|
 |60 min|:laptop: _Coding_: descoberta de circuitos|

@@ -22,6 +22,7 @@ showTableOfContents: true
 ## Encontro 2
 
 **Handbook**:
+- [Capítulo 3](https://impact-rio.github.io/handbook/3)
 - [Capítulo 4](https://impact-rio.github.io/handbook/4)
 
 **Papers**:
@@ -30,7 +31,7 @@ showTableOfContents: true
 - [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
 
 **Coding**:
-- [ARENA -- \[1.3\] Indirect Object Identification](https://colab.research.google.com/drive/1ZzLGDngppg5Y7CAKubww45RZrcXpVsrL?usp=sharing)
+- [ARENA -- \[1.2\] Intro to Mechanistic Interpretability: TransformerLens & induction circuits / Section 2, 3, 4](https://colab.research.google.com/github/impact-rio/mech-interp-course/blob/main/notebooks/encontro-2-circuits.ipynb)
 
 ## Encontro 3
 
