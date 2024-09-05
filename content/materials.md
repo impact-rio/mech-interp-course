@@ -15,9 +15,9 @@ showTableOfContents: true
 **Coding**:
 - [ARENA -- \[1.2\] Intro to Mechanistic Interpretability: TransformerLens & induction circuits / Section 1](https://colab.research.google.com/github/impact-rio/mech-interp-course/blob/main/notebooks/encontro-1-mech-interp-intro.ipynb)
 
-**Videos**:
-- [3b1b -- But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://www.youtube.com/watch?v=wjZofJX0v4M)
-- [3b1b -- Attention in transformers, visually explained | Chapter 6, Deep Learning](https://www.youtube.com/watch?v=eMlx5fFNoYc)
+**Vídeos**:
+- [3B1B -- But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://www.youtube.com/watch?v=wjZofJX0v4M)
+- [3B1B -- Attention in transformers, visually explained | Chapter 6, Deep Learning](https://www.youtube.com/watch?v=eMlx5fFNoYc)
 
 ## Encontro 2
 
@@ -42,7 +42,10 @@ showTableOfContents: true
 - [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
 
 **Coding**:
-- [ARENA -- \[1.4\] Superposition & Sparse Autoencoders](https://colab.research.google.com/drive/1DSqMihSkocF4WtLtazpIpZoUzrlu3Vdb?usp=sharing)
+- [ARENA -- \[1.4\] Superposition & Sparse Autoencoders](https://colab.research.google.com/github/impact-rio/mech-interp-course/blob/main/notebooks/encontro-4-superposition.ipynb)
+
+**Vídeos**:
+- [3B1B -- How might LLMs store facts | Chapter 7, Deep Learning](https://www.youtube.com/watch?v=9-Jl0dxWQs8)
 
 
 ## Encontro 4
