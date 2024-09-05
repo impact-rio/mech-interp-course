@@ -55,7 +55,7 @@ Acessar os materiais para esse encontro
 |---|---|
 |Preparação|:book: [Capítulo 5](https://impact-rio.github.io/handbook/5) do Handbook|
 |30 min|:mag: Superposição|
-|30 min|:page_with_curl: Exploração do _paper_ [Toy Models of superposition](https://transformer-circuits.pub/2022/toy_model/index.html)|
+|30 min|:page_with_curl: Vídeo do 3Blue1Brown [How might LLMs store facts]([https://transformer-circuits.pub/2021/framework/index.html](https://www.youtube.com/watch?v=9-Jl0dxWQs8)) e discussão.|
 |20 min|:croissant: _Coffee break_|
 |60 min|:laptop: _Coding_: superposição em toy models|
 
