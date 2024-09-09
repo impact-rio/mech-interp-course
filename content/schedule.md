@@ -68,12 +68,12 @@ Acessar os materiais para esse encontro
 
 |Tempo|Descrição|
 |---|---|
-|Preparação|:book: Capítulo 6 do Handbook (TO-DO)|
-|20 min|:mag: Sparse Autoencoders (SAE)|
-|40 min|:page_with_curl: Exploração dos _papers_ [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html) e [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)|
+|Preparação|:book: [Capítulo 5](https://impact-rio.github.io/handbook/5) do Handbook|
+|30 min|:mag: Sparse Autoencoders (SAE) e [exploração prática](https://www.neuronpedia.org/gemma-scope#microscope)|
+|30 min|:page_with_curl: Exploração dos _papers_ [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html) e [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)|
 |20 min|:croissant: _Coffee break_|
-|40 min|:laptop: _Coding_: Treinando SAEs|
-|30 min|:mag: Exploração de _papers_ e novas áreas de exploração: dicas para o Hackathon!|
+|40 min|:laptop: _Coding_: Utilizando SAEs|
+|30 min|:mag: Novas áreas de exploração e dicas para o Hackathon!|
 
 {{< button href="../materials#encontro-4" target="_self" >}}
 Acessar os materiais para esse encontro
