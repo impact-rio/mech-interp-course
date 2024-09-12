@@ -42,7 +42,7 @@ showTableOfContents: true
 - [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
 
 **Coding**:
-- [ARENA -- \[1.4\] Superposition & Sparse Autoencoders](https://colab.research.google.com/github/impact-rio/mech-interp-course/blob/main/notebooks/encontro-4-superposition.ipynb)
+- [ARENA -- \[1.4\] Superposition & Sparse Autoencoders](https://colab.research.google.com/github/impact-rio/mech-interp-course/blob/main/notebooks/encontro-3-superposition.ipynb)
 
 **Vídeos**:
 - [3B1B -- How might LLMs store facts | Chapter 7, Deep Learning](https://www.youtube.com/watch?v=9-Jl0dxWQs8)
