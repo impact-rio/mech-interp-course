@@ -59,7 +59,7 @@ showTableOfContents: true
 - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 
 **Coding**:
-- [ARENA -- \[1.4\] Superposition & Sparse Autoencoders](https://colab.research.google.com/drive/1DSqMihSkocF4WtLtazpIpZoUzrlu3Vdb?usp=sharing)
+- [SAELens -- Tutorial](https://colab.research.google.com/github/impact-rio/mech-interp-course/blob/main/notebooks/encontro-4-sae.ipynb)
 
 ## Extra
 
