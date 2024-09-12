@@ -62,13 +62,13 @@ Acessar os materiais para esse encontro
 
 ## Encontro 4 -- Sparse Autoencoders (SAE)
 
-**Horário**: Dia 13/09, sexta-feira, a partir das 14h30.
+**Horário**: Dia 13/09, sexta-feira, a partir das 15h00.
 
 **Local**: Auditório 418.
 
 |Tempo|Descrição|
 |---|---|
-|Preparação|:book: Capítulo 6 do Handbook (TO-DO)|
+|Preparação|:book: [Capítulo 6](https://impact-rio.github.io/handbook/6) do Handbook|
 |20 min|:mag: Sparse Autoencoders (SAE)|
 |40 min|:page_with_curl: Exploração dos _papers_ [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html) e [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)|
 |20 min|:croissant: _Coffee break_|

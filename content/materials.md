@@ -51,7 +51,7 @@ showTableOfContents: true
 ## Encontro 4
 
 **Handbook**:
-- TODO
+- [Capítulo 6](https://impact-rio.github.io/handbook/6)
 
 **Papers**:
 - [Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://arxiv.org/abs/2309.08600)
